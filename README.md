@@ -15,4 +15,7 @@
 
 ![Screenshot 2025-01-01 133400](https://github.com/user-attachments/assets/fc944b09-d9b6-4d3a-90ce-d7f09fe95bd2)
 -----------------------------------------------------------
+5. RELATIONAL OPERATOR
+
+![Screenshot 2025-01-01 133421](https://github.com/user-attachments/assets/415f87c6-3e56-4152-bfc1-24a30e6bbc09)
 
